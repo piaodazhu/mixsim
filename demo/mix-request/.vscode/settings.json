@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"nip_pkt_tools.h": "c",
+		"tlv_u.h": "c",
+		"nsocket.h": "c"
+	}
+}

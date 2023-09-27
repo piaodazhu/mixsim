@@ -1,0 +1,16 @@
+{
+	"files.associations": {
+		"lfq.h": "c",
+		"nip_pkt_tools.h": "c",
+		"isockethdr.h": "c",
+		"nsocket.h": "c",
+		"dyco_coroutine.h": "c",
+		"name_udp_table.h": "c",
+		"adaptor.h": "c",
+		"inet.h": "c",
+		"in.h": "c",
+		"stdint-uintn.h": "c",
+		"bbkk": "c",
+		"string.h": "c"
+	}
+}
